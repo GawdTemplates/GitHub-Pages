@@ -1,0 +1,16 @@
+#
+# Website Info
+#
+# Website Title (Default: Repo Name)
+title: CoolV1994
+# Website Description (Default: Repo Description)
+description: >
+  CoolV's personal site and blog.
+
+#
+# Website URL
+#
+# Website Base URL (Default: Repo Directory)
+baseurl: "/GitHub-Pages"
+# Website URL (Default: User Sub-Domain)
+url: "https://GawdTemplates.github.io"
