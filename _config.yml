@@ -1,0 +1,33 @@
+##################################################
+#    Site Configuration  —  Jekyll               #
+#    https://jekyllrb.com/docs/configuration/    #
+##################################################
+
+#
+# Website Info
+#
+# Website Title (Default: Repo Name)
+title: My Website
+# Website Tagline / Slogan
+tagline: Sample GitHub Pages Website
+# Website Description (Default: Repo Description)
+description: >
+  Basic Template for GitHub Pages Website
+# Website Author
+author: CoolV1994
+
+#
+# Website URL
+#
+# Website Base URL (Default: Repo Directory)
+baseurl: "/GitHub-Pages"
+# Website URL (Default: User Sub-Domain)
+url: "https://GawdTemplates.github.io"
+
+#
+# Post Pagination
+#
+# Number of Posts per Page
+paginate: 10
+# Posts Page URL
+paginate_path: "/page/:num/"
