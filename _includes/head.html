@@ -5,3 +5,7 @@
 <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
 
 <title>{{ page.title | default: site.title }}</title>
+
+{% for stylesheet in include.css %}
+<link href="{{ site.baseurl }}{{ stylesheet }}" rel="stylesheet">
+{% endfor %}
